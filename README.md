@@ -18,7 +18,7 @@ This document is a compiled and structured extraction of handwritten notes detai
 
 ---
 
-## 2. Web Design, Code Generation & Automation
+## 2. Web Design, Code Generation, Automation & 3D generation
 * **Stitch:** UI/UX tool designed for prototyping website and app interfaces, with features to export designs straight into an AI studio to compile or generate code.
 * **v0.3 (V0 by Vercel):** Generative UI system producing production-ready frontend code from text descriptions.
 * **Bolt / Goose:** AI-native development assistants and coding agents designed to build full-stack applications.
@@ -26,6 +26,7 @@ This document is a compiled and structured extraction of handwritten notes detai
 * **Make.com:** Visual workflow automation and integration platform connecting various web applications.
 * **Zapier:** Popular workflow automation platform designed to link apps and automate manual workflows.
 * **Apify:** Web scraping and data extraction platform built to feed data into AI workflows.
+* **Tripo 3D:** AI-powered platform that converts text descriptions, images, or sketches into detailed 3D models within minutes.
 
 ---
 
