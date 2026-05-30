@@ -1,7 +1,5 @@
 # AI Tools and Resources Catalog
 
-This document is a compiled and structured extraction of handwritten notes detailing various AI platforms, software tools, productivity utilities, and client outreach methods.
-
 ---
 
 ## 1. Primary AI Platforms, Models & Research Tools
